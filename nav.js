@@ -17,3 +17,7 @@ document.getElementById("menuBtn").onclick = (e) => {
   e.stopPropagation();
   openMenu();
 };
+
+const foo = () => {
+  // test user
+};
